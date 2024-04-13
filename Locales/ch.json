@@ -1,0 +1,15 @@
+{
+    "newCultureByCapital": "Culture By Capital",
+    "newCultureByCapital Description": "Allow new cultures to be created next to the old kingdom's capital?",
+    "removeCulture": "Remove Culture",
+    "removeCulture Description": "Allow small cultures to be removed when the culture changes during a rebellion.",
+    "mustMatchKingdom": "Must Match Kingdom",
+    "mustMatchKingdom Description": "Does the culture of the rebelling city have to match the kingdom it came from?",
+    "naturalTileSwapping": "Natural Tile Swapping",
+    "naturalTileSwapping Description": "Disable cultures swapping tiles unless one has many more units in the chunk.",
+    "newCultureSameContinent": "Same Continent Chance",
+    "newCultureSameContinent Description": "The probability that a new culture will be created through rebellion on the same continent.",
+    "newCultureDiffContinent": "Different Continent Chance",
+    "newCultureDiffContinent Description": "The probability that a new culture will be created through rebellion on other continents.",
+    "CS": "Culture Shift"
+}
