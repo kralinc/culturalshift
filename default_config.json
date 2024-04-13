@@ -1,0 +1,44 @@
+{
+    "CS": [
+        {
+            "Id": "newCultureByCapital",
+            "Type": "SWITCH",
+            "IconPath": "ui/icons/iconHideUI",
+            "BoolVal": false        
+        },
+        {
+            "Id": "removeCulture",
+            "Type": "SWITCH",
+            "IconPath": "ui/icons/iconHideUI",
+            "BoolVal": false
+        },
+        {
+            "Id": "mustMatchKingdom",
+            "Type": "SWITCH",
+            "IconPath": "ui/icons/iconHideUI",
+            "BoolVal": false
+        },
+        {
+            "Id": "naturalTileSwapping",
+            "Type": "SWITCH",
+            "IconPath": "ui/icons/iconHideUI",
+            "BoolVal": false
+        },
+        {
+            "Id": "newCultureSameContinent",
+            "Type": "SLIDER",
+            "IconPath": "ui/icons/iconKingdomZones",
+            "FloatVal": 0.1,
+            "MinFloatVal": 0.0,
+            "MaxFloatVal": 1.0
+        },
+        {
+            "Id": "newCultureDiffContinent",
+            "Type": "SLIDER",
+            "IconPath": "ui/icons/iconKingdomZones",
+            "FloatVal": 0.2,
+            "MinFloatVal": 0.0,
+            "MaxFloatVal": 1.0
+        }
+    ]
+}
