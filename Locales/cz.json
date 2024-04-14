@@ -1,15 +1,15 @@
 {
-    "newCultureByCapital": "Culture By Capital",
-    "newCultureByCapital Description": "Allow new cultures to be created next to the old kingdom's capital?",
-    "removeCulture": "Remove Culture",
-    "removeCulture Description": "Allow small cultures to be removed when the culture changes during a rebellion.",
-    "mustMatchKingdom": "Must Match Kingdom",
-    "mustMatchKingdom Description": "Does the culture of the rebelling city have to match the kingdom it came from?",
-    "naturalTileSwapping": "Natural Tile Swapping",
-    "naturalTileSwapping Description": "Disable cultures swapping tiles unless one has many more units in the chunk.",
-    "newCultureSameContinent": "Same Continent Chance",
-    "newCultureSameContinent Description": "The probability that a new culture will be created through rebellion on the same continent.",
-    "newCultureDiffContinent": "Different Continent Chance",
-    "newCultureDiffContinent Description": "The probability that a new culture will be created through rebellion on other continents.",
-    "CS": "Culture Shift"
+    "newCultureByCapital": "多元文明",
+    "newCultureByCapital Description": "你会允许国都旁出现新的文明吗？",
+    "removeCulture": "文明灭绝",
+    "removeCulture Description": "只对只有一个城市的文明生效\n允许移除叛乱城市原先的文明(如:该文明在叛乱后会直接灭亡)",
+    "mustMatchKingdom": "起源争端",
+    "mustMatchKingdom Description": "发生叛乱的城市是否要敌对原国家?",
+    "naturalTileSwapping": "更合理的区块转换",
+    "naturalTileSwapping Description": "限制文明之间的相互扩张，只有在区块中占大多数的文明才有资格扩张",
+    "newCultureSameContinent": "出现同源文明概率",
+    "newCultureSameContinent Description": "相同大陆发生叛乱后出现新文明的可能性",
+    "newCultureDiffContinent": "出现非同源文明的概率",
+    "newCultureDiffContinent Description": "其他大陆发生叛乱后出现新文明的可能性",
+    "CS": "文明变迁CultureShift"
 }
