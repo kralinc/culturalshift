@@ -4,7 +4,7 @@
     "removeCulture": "文明滅絕",
     "removeCulture Description": "只對只有一個城市的文明生效\n允許移除叛亂城市原先的文明(如:該文明将在叛亂後直接滅亡)",
     "mustMatchKingdom": "起源爭端",
-    "mustMatchKingdom Description": "發生叛亂的城市是否要敵對原國家?",
+    "mustMatchKingdom Description": "你會允許叛亂的城市孕育新的文明吗?",
     "naturalTileSwapping": "更合理的區塊轉換",
     "naturalTileSwapping Description": "限制文明之間的相互擴張，只有在區塊中占大多數的文明才有資格擴張",
     "newCultureSameContinent": "出現同源文明概率",
