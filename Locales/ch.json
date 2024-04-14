@@ -7,8 +7,6 @@
     "mustMatchKingdom Description": "發生叛亂的城市是否要敵對原國家?",
     "naturalTileSwapping": "更合理的區塊轉換",
     "naturalTileSwapping Description": "限制文明之間的相互擴張，只有在區塊中占大多數的文明才有資格擴張",
-    "newCultureByCapital": "多元文明",
-    "newCultureByCapital Description": "你會允許國都旁出現新的文明吗？",
     "newCultureSameContinent": "出現同源文明概率",
     "newCultureSameContinent Description": "相同大陸發生叛亂後出現新文明的可能性",
     "newCultureDiffContinent": "出現非同源文明的概率",
