@@ -7,6 +7,8 @@
     "mustMatchKingdom Description": "Does the culture of the rebelling city have to match the kingdom it came from?",
     "naturalTileSwapping": "Natural Tile Swapping",
     "naturalTileSwapping Description": "Disable cultures swapping tiles unless one has many more units in the chunk.",
+    "naturalTileSwappingThreshold": "Natural Tile Swapping Threshold",
+    "naturalTileSwappingThreshold Description": "What proportion of units needs to be of one culture for the tile to swap to it? Does nothing with Natural Tile Swapping disabled. Set value to 1.1 to never swap.",
     "newCultureSameContinent": "Same Continent Chance",
     "newCultureSameContinent Description": "The probability that a new culture will be created through rebellion on the same continent.",
     "newCultureDiffContinent": "Different Continent Chance",

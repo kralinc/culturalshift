@@ -25,6 +25,14 @@
             "BoolVal": false
         },
         {
+            "Id": "naturalTileSwappingThreshold",
+            "Type": "SLIDER",
+            "IconPath": "ui/icons/iconKingdomZones",
+            "FloatVal": 0.6,
+            "MinFloatVal": 0.0,
+            "MaxFloatVal": 1.1
+        },
+        {
             "Id": "newCultureSameContinent",
             "Type": "SLIDER",
             "IconPath": "ui/icons/iconKingdomZones",

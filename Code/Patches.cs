@@ -115,6 +115,7 @@ namespace CulturalShift
 		public static bool spreadAround_Prefix(TileZone pZone, Culture __instance)
 		{
 			bool naturalTileSwapping = (bool) conf["CS"]["naturalTileSwapping"].GetValue();
+			float naturalTileSwappingThreshold = (float) conf["CS"]["naturalTileSwappingThreshold"].GetValue();
 			//just run the base method if this setting isn't on
 			if (!naturalTileSwapping) {
 				return true;
@@ -154,8 +155,8 @@ namespace CulturalShift
 				}
 			}
 
-			//Disable stealing tiles from cultures with less spread unless this culture has over 2/3 the units in the chunk
-			if (naturalTileSwapping && (list.Count == 0 || (double) unitsWithOtherCulture / (double)list.Count > 0.3)) {
+			//Disable stealing tiles from cultures with less spread unless this culture has a proportion of units in the chunk greater than the threshold.
+			if (naturalTileSwapping && (list.Count == 0 || (double) unitsWithOtherCulture / (double)list.Count < naturalTileSwappingThreshold)) {
 				return false;
 			}
 
